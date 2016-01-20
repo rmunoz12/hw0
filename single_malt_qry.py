@@ -8,7 +8,6 @@ Ignores upper and lower casing, so "Single Malt Scotch", and
 """
 
 import csv
-from pprint import pprint
 
 CSV_PATH = 'iowa-liquor-sample.csv'
 SEARCH_STRING = 'single malt scotch'
